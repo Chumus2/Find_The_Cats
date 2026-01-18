@@ -2,7 +2,7 @@
 
 @font-face {
     font-family: "Lora_Regular";
-    src: url(/Assets/Fonts/Lora_Fonts/Lora-Regular.ttf);
+    src: url(Assets/Fonts/Lora_Fonts/Lora-Regular.ttf);
     font-display: swap;
     font-style: normal;
     font-weight: 400;
@@ -404,4 +404,5 @@ main {
 .Contacts_Links a {
     transition: transform 0.3s ease, color 0.25s ease;
     color: rgb(0, 0, 0);
+
 }
